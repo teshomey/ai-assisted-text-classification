@@ -19,6 +19,7 @@ The notebook automatically installs necessary Python packages required for:
 
 ### 1️⃣ Data Structuring — Data Model Design
 - Load necessary packages
+- Place `pubs_1.txt`, `pubs_2.txt`, `pubs_3.txt` in the working directory
 - Import three `.txt` publication datasets  
 - Initial data inspection  
 - Combinig datasets  
