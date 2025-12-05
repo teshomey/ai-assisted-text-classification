@@ -11,7 +11,7 @@ This README outlines the complete workflow for processing, enriching, and classi
 
 ### 0️⃣ Install Dependencies
 The notebook automatically installs necessary Python packages required for:
-- Data processing (e.g., pandas)
+- Data preprocessing and normalizing (e.g., pandas, numpy)
 - API communication (OpenAlex)
 - Data modeling
 
