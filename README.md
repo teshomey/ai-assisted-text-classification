@@ -5,7 +5,7 @@
 ---
 
 ## 📂 Project Overview
-This README outlines the complete workflow for processing, enriching, and classifying research publications as **Regional** or **Not Regional** using metadata enhancement and AI-assisted text analysis. All scripts and procedures can be found in the `ai-assisted-code.ipynb` notebook. The analysis starts with three `.txt` datasets from Web of Science (WoS), which are linked to corresponding records in OpenAlex for additional metadata. Finally, publications are categorized using an AI classification model (GPT-5.1), based on their geographic focus and research context.
+This README outlines the complete workflow for processing, enriching, and classifying research publications as **Regional** or **Not Regional** using metadata enhancement and AI-assisted text analysis. All scripts and procedures can be found in the `ai-assisted-code.ipynb` notebook. The analysis starts with three `.txt` datasets from Web of Science (WoS), which are linked to corresponding records in **OpenAlex** for additional metadata. Finally, publications are categorized using an AI classification model (GPT-5.1), based on their geographic focus and research context.
 
 ---
 
@@ -19,7 +19,7 @@ The notebook automatically installs necessary Python packages required for:
 
 ### 1️⃣ Data Structuring — Data Model Design
 - Load necessary packages
-- Place `pubs_1.txt`, `pubs_2.txt`, `pubs_3.txt` in the working directory
+- Place `pubs_1.txt`, `pubs_2.txt`, `pubs_3.txt` in the working directory — see 📂 **publications**
 - Import three `.txt` publication datasets  
 - Initial data inspection  
 - Combinig datasets  
