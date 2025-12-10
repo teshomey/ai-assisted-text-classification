@@ -1,4 +1,4 @@
-**By:** Teshome Kebede Deressa
+**By:** Teshome K. Deressa
 
 **Date:** 06-Dec-2025  
 
